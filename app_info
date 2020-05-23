@@ -1,0 +1,4 @@
+A decorator is a way of wrapping functions.
+
+Never have in production or submitted projet >> debug=true, only when testing.
+
