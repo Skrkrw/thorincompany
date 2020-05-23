@@ -2,3 +2,10 @@ A decorator is a way of wrapping functions.
 
 Never have in production or submitted projet >> debug=true, only when testing.
 
+Heroku
+npm install -g heroku
+
+git remote -v
+git remote add heroku https://git.heroku.com/thoringandcompany.git
+
+git push -u heroku master
